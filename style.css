@@ -12,7 +12,13 @@
 }
 
 .pixel {
-    background-color: cyan; 
+    background-color: lightgray; 
     aspect-ratio: 1 / 1;
+    box-sizing: border-box;
     
+    
+}
+
+.settings > * {
+    margin-top: 20px;
 }
