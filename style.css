@@ -1,0 +1,18 @@
+
+.board {
+    
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+    gap: 1px;
+    aspect-ratio: 1 / 1 ;
+
+    align-content: center;
+}
+
+.pixel {
+    background-color: cyan; 
+    aspect-ratio: 1 / 1;
+    
+}
